@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "title": "Mie Ayam Biasa",
+      "price": "13.000",
+      "id": 1
+    },
+    {
+      "title": "Mie Ayam bakso jumbo",
+      "price": "18.000",
+      "id": 4
+    },
+    {
+      "title": "Bakso Jumbo",
+      "price": "18.000",
+      "id": 5
+    },
+    {
+      "title": "z",
+      "price": "z",
+      "id": 6
+    },
+    {
+      "title": "z",
+      "price": "z",
+      "id": 7
+    },
+    {
+      "title": "x",
+      "price": "x",
+      "id": 8
+    },
+    {
+      "title": "x",
+      "price": "x",
+      "id": 9
+    },
+    {
+      "title": "x",
+      "price": "x",
+      "id": 10
+    },
+    {
+      "title": "x",
+      "price": "x",
+      "id": 11
+    },
+    {
+      "title": "x",
+      "price": "x",
+      "id": 12
+    }
+  ]
+}
