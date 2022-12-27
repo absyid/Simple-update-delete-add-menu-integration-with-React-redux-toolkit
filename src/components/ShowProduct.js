@@ -18,7 +18,7 @@ const ShowProduct = () => {
   return (
     <>
       <p class="panel-heading mt-5 is-size-4 is-family-secondary has-background-info has-text-white-bis">
-        Update Resto Pak Haji
+        Update Resto Pak Haji Bedul
       </p>
       <div className="box mt-2">
         <table className="table is-striped is-fullwidth">
